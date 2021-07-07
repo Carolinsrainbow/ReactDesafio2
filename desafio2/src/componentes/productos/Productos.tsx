@@ -14,3 +14,5 @@ return (
 ))}</ul>
 );
 }
+
+export default Productos
